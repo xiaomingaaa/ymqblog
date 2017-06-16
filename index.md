@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+##梦琪专属空间
 
-You can use the [editor on GitHub](https://github.com/xiaomingaaa/ymqblog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaomingaaa/ymqblog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+这是29岁的顾胜男（周冬雨饰）是一家百老汇酒店西餐厅的二厨，
+电影剧照
+电影剧照(24张)
+ 一直与酒店总经理秘密恋爱，结果酒店遭遇经营危机，总经理提出分手。顾胜男在惨遭失恋、事业双重打击后，遇见了前来收购酒店的挑剔、毒舌且自大的路晋（金城武饰）。性格各异的两人在鸡飞狗跳的相处过程中产生了情愫，路晋最终成为忠犬男友[4]  。
